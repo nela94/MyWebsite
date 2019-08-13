@@ -21,3 +21,19 @@ body {
 .container button {
   padding-left: 60px;
 }
+
+.aboutme{
+  display: flex
+}
+
+.aboutMePic {
+  border-radius: 50%;
+  width: 40%;
+  height: 50%;
+  padding-top: 4px;
+}
+
+.infoContainer{
+  display: flex;
+  flex-direction: column;
+}
