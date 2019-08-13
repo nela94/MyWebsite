@@ -34,6 +34,7 @@ body {
 }
 
 .infoContainer{
+  text-align: center;
   display: flex;
   flex-direction: column;
 }
